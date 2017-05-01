@@ -23,5 +23,4 @@ public abstract class BankTemplateMethod {
 
    protected abstract boolean doLog();
 
-
 }
